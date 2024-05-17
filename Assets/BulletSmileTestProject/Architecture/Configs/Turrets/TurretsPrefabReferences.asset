@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99924bb1990343eab590a67f901cb0fe, type: 3}
+  m_Name: TurretsPrefabReferences
+  m_EditorClassIdentifier: 
+  _bulletTurret: {fileID: 2543237551675467972, guid: 26143f800a7aa1a40a8e56960ac5370e, type: 3}
+  _laserTurret: {fileID: -2555270404267943045, guid: 8391cbd318e92b74a80bebcb234348f4, type: 3}

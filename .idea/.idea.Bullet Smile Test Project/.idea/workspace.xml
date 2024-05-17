@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92051bd3-1c5f-4b19-bac9-ba4d8b8e64fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/BulletSmileTestProject/UI/Prefabs/ScreenGameplay/Scripts/MainCharacterHealthUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/82A2FD07-3EE4-4992-8E16-1903460426D7/0f/556d2d33/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Levels/Scripts/EndPoint.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/CoroutineContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/Interfaces/ITimeService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/Interfaces/ILevelService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Factories/LevelFactory/Scripts/Interfaces/ILevelFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/LevelService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/InputService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/Interfaces/IInputService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/JumpLineRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/TimeService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrells/Scripts/BaseTurrell.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrells/Scripts/BaseTurret.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/BulletTurretShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Configs/Turrells/Scripts/TurretConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/Enums/TurretType.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Configs/Turrets/Scripts/TurretsPrefabReferences.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Factories/TurretsFactory/Scripts/Interfaces/ITurretFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Levels/Scripts/TurretsSpawnPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Factories/LevelFactory/Scripts/LevelFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Zenject/Scripts/MainCharacterInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/BulletTurret.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/LaserTurret.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/JumpArrowRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Configs/Turrets/Scripts/BulletPoolConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/Pools/BulletPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Configs/Turrets/Scripts/TurretConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/Interfaces/ITurretShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/TurretShooters/BulletTurretShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Configs/MainCharacter/Scripts/MainCharacterConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/Interfaces/ISceneLoaderService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Services/Scripts/SceneLoaderService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Zenject/Scripts/ProjectInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/StateMachines/GameStateMachine/Scripts/States/BootState.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Zenject/Scripts/BootSceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/Interfaces/IHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/UI/Prefabs/ScreenGameplay/Scripts/GameInfoUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Scripts/Bootstrap.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/StateMachines/GameStateMachine/Scripts/States/EndGameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/UI/Prefabs/ScreenGameplay/Scripts/MainCharacterHealthUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/Interfaces/IInputHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/StateMachines/GameStateMachine/Scripts/GameStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Levels/Scripts/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Levels/Scripts/EndPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/MainCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Architecture/Factories/TurretsFactory/Scripts/TurretFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/BaseTurret.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/NPCs/Turrets/Scripts/TurretShooters/LaserTurretShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSmileTestProject/Prefabs/Characters/MainCharacter/Scripts/InputHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gVIXbeQFYSCej5usjRtqFR3bmU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92051bd3-1c5f-4b19-bac9-ba4d8b8e64fc" name="Default Changelist" comment="" />
+      <created>1715776367274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715776367274</updated>
+      <workItem from="1715776378187" duration="60185000" />
+      <workItem from="1715936266004" duration="23862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="218" key="RiderGenerateDialog" timestamp="1715954651978">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="794" y="218" key="RiderGenerateDialog/0.0.1920.1034/1920.151.1366.728@0.0.1920.1034" timestamp="1715954651978" />
+    <state x="623" y="164" key="SettingsEditor" timestamp="1715841810417">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="623" y="164" key="SettingsEditor/0.0.1920.1034/1920.151.1366.728@0.0.1920.1034" timestamp="1715841810417" />
+  </component>
+</project>

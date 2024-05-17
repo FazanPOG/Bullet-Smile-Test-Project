@@ -1,0 +1,66 @@
+{
+    "name": "MainCharacterInputAction",
+    "maps": [
+        {
+            "name": "MainCharacter",
+            "id": "722e09ae-92ee-4249-a494-9e31b75a04f3",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "f8ba7b2b-ecc1-4759-bf8d-0853b25e6ee4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "MousePosition",
+                    "type": "Value",
+                    "id": "b322180d-27d6-441c-93b1-86c4df51d1bf",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "36cbd56a-4fe0-4f31-8f74-10bdb1bcb111",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "NormalizeVector2",
+                    "groups": "Mouse",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "efc9872d-c4cb-45eb-a4fb-32dff25818b5",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Mouse",
+                    "action": "MousePosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Mouse",
+            "bindingGroup": "Mouse",
+            "devices": [
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
